@@ -1,0 +1,6 @@
+{
+  "name": "مُهندس البرومبتات البرمجية - CodePrompt Architect",
+  "description": "منصة هندسية ذكية لتحويل الأفكار النصية إلى برومبتات برمجية متكاملة (Production-Ready) لكافة منصات صناعة الأكواد والتطبيقات مع النقد الذكي والبحث في الإنترنت ونماذج شاشات العرض.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
